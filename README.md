@@ -1,4 +1,4 @@
-![5D429327-AAC1-42BD-A168-62855FCC121C](https://github.com/user-attachments/assets/3f94358f-34ab-449c-8c4d-ed9935679ff7)
+![Banner][5D429327-AAC1-42BD-A168-62855FCC121C](https://github.com/user-attachments/assets/3f94358f-34ab-449c-8c4d-ed9935679ff7)
 
 
 # 💫 About Me:
