@@ -13,5 +13,3 @@ Hi, I’m Shiven Aggarwal – a programmer who thrives on both corporate challen
 
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{shivenaggarwal}/count.svg)
-
