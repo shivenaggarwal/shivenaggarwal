@@ -1,4 +1,4 @@
-![FACD0AA2-0EBE-4C08-BE1E-70A071F3CA47](https://github.com/user-attachments/assets/a7fe7e27-c97a-4678-a265-4f632dfde776)
+<img src="https://github.com/user-attachments/assets/a7fe7e27-c97a-4678-a265-4f632dfde776" alt="drawing" width="100%"/>
 
 
 # 💫 About Me:
