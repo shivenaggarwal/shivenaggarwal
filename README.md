@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/1ef73cdd-fca5-4130-812d-bbaaef043198" alt="drawing" width="100%"/>
+<img src="https://github.com/user-attachments/assets/6d984b27-c989-44cf-9cdd-ad3579189fe1" alt="drawing" width="100%"/>
+
 
 # 💫 About Me:
 Hi, I’m Shiven Aggarwal – a programmer who thrives on both corporate challenges and freelance freedom. I specialize in AI/ML, web development, and creating solutions that push boundaries. When I’m not coding, you’ll find me training in mixed martial arts, preferably boxing, or watching F1 races. The thrill of speed and precision fuels my work and my personal life. I believe in efficiency and getting results, no matter the means. Whether it’s building intelligent systems or mastering new skills, I go all in. If you're looking for someone who can deliver, and isn’t afraid to take risks, let’s talk.
